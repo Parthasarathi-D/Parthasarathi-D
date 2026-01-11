@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parthasarathi D
 - 👀 I’m interested in new techs and how they work
-- 🌱 I’m currently learning B.tech/IT from MIT
+- 🌱 I’m currently working as a software engineer
 - 📫 How to reach me (mail me @d.parthasarathi07@gmail.com)
 
 <!---
